@@ -47,7 +47,6 @@ This project analyzes a cricket player’s cover drive technique using computer 
 pip install opencv-python mediapipe numpy yt-dlp
 
 
-Run the Python script or Jupyter Notebook.
 
 
 Outputs will be generated in the output/ folder:
@@ -56,7 +55,7 @@ annotated_video.mp4 → Video with annotated pose and feedback.
 
 evaluation.json → Detailed numeric scores and comments.
 
-Applications & Skills Demonstrated
+**Applications & Skills Demonstrated**
 
 Sports analytics for cricket coaching and performance enhancement.
 
@@ -66,6 +65,4 @@ Python programming, vector mathematics, and data visualization.
 
 Data-driven evaluation using thresholds and quantitative metrics.
 
-Contact
 
-Ayush Kumar – LinkedIn Profile
