@@ -45,10 +45,3 @@ This project analyzes a cricket player’s cover drive technique using computer 
 1. **Install the required packages:**
 ```bash
 pip install opencv-python mediapipe numpy yt-dlp
-
-
-
-
-
-
-
