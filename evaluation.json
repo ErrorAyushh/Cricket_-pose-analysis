@@ -1,0 +1,29 @@
+{
+  "video": "C:\\Users\\ayush\\input_video.mp4",
+  "frames": 136,
+  "avg_fps": 13.2,
+  "scores": {
+    "Footwork": 1,
+    "Head Position": 4,
+    "Swing Control": 9,
+    "Balance": 7,
+    "Follow-through": 7
+  },
+  "comments": {
+    "Footwork": "Work on front foot aiming; reduce toe-out.",
+    "Head Position": "Keep head stacked over front knee.",
+    "Swing Control": "Smooth elbow motion.",
+    "Balance": "Stable posture and spine lean.",
+    "Follow-through": "Good continuation of swing."
+  },
+  "thresholds": {
+    "elbow_good_min": 120.0,
+    "elbow_good_max": 175.0,
+    "spine_good_min": 5.0,
+    "spine_good_max": 25.0,
+    "head_knee_max_gap_frac": 0.06,
+    "foot_angle_max_abs": 25.0,
+    "visibility_thresh": 0.4,
+    "ema_alpha": 0.18
+  }
+}
