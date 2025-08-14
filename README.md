@@ -49,20 +49,6 @@ pip install opencv-python mediapipe numpy yt-dlp
 
 
 
-Outputs will be generated in the output/ folder:
 
-annotated_video.mp4 → Video with annotated pose and feedback.
-
-evaluation.json → Detailed numeric scores and comments.
-
-**Applications & Skills Demonstrated**
-
-Sports analytics for cricket coaching and performance enhancement.
-
-Real-time computer vision and pose estimation implementation.
-
-Python programming, vector mathematics, and data visualization.
-
-Data-driven evaluation using thresholds and quantitative metrics.
 
 
